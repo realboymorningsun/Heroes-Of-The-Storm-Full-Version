@@ -267,4 +267,4 @@ This repository serves as the official landing page for **Heroes of the Storm**.
 **Get the most recent version of Heroes of the Storm today!**
 
 ---
-**Last updated:** 2026-10-15 23:24:30 UTC
+**Last updated:** 2026-10-16 02:10:09 UTC
